@@ -6,7 +6,7 @@ function readFiles(files){
 
     var output = [];
     for (var i = 0, f; f = files[i]; i++){
-        output.push('<li><strong>',escape(f.name),'</strong> (', f.type || 'n/a',') - ', 
+        output.push('<li><strong>', escape(f.name),'</strong> (', f.type || 'n/a',') - ', 
             f.size, 'bytes, last modified: ',
             f.lastModifiedDate ? f.lastModifiedDate.toLocaleDateString() : 'n/a',
             '</li>');
@@ -42,8 +42,8 @@ function handleFileSelect(evt) {
     readFiles(files);
 }
 
-function handleFileSelect_darg(evt) {
-    evt.stopProragation();
+function handleFileSelect_drag(evt) {
+    evt.stopPropagation();
     evt.preventDefault();
     var files = evt.dataTransfer.files;
 
@@ -51,7 +51,7 @@ function handleFileSelect_darg(evt) {
 }
 
 function handleDragOver(evt) {
-    evt.stopProragation();
+    evt.stopPropagation();
     evt.preventDefault();
     evt.dataTransfer.dropEffect = 'copy';
 }
@@ -62,7 +62,7 @@ function start(e) {
 
     var dropZone = document.getElementById('drop_zone');
     dropZone.addEventListener("dragover",handleDragOver, false);
-    dropZone.addEventListener('drop',handleFileSelect_darg, false);
+    dropZone.addEventListener('drop',handleFileSelect_drag, false);
 }
 
 window.addEventListener( "load", start, false );
