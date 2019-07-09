@@ -7,8 +7,8 @@ $(function() {
               "joker-card.svg"];
 
     for (var i = 0; i < 16 ; i++) {
-        var r = Math.floor((Math.random() * 4));
-            $('#d2').append('<img class="issue" src="./">');
+        var r = Math.floor(Math.random() * 4);
+            $('#d2').append('<img class="issue" src="./'+card[r]+'">');
         };
 
 
