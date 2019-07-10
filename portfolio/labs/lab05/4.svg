@@ -68,7 +68,7 @@
 <path d="M304 180 T365 370" stroke="ORANGE" stroke-width="5" fill="none"></path>
 
 <path d="M220 310 Q 230 340 , 256 310 Q256 310, 270 322 T 295 310" stroke="black" stroke-width="5" fill="none"></path>
-<text x="150" y="420" font-size="42" text-anchor="start" fill="lightblue">北海小英雄</text>
+<text x="150" y="420" font-size="42" text-anchor="start" fill="lightblue">北海筱英雄</text>
 <text x="160" y="460" font-size="42" text-anchor="start" fill="lightblue">VOYAGER</text>
 
 </svg>
