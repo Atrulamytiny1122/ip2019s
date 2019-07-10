@@ -39,12 +39,15 @@
 
   
   
-  <ellipse fill="LIGHTBLUE" stroke="BLACK" stroke-width="5" cx="256" cy="270" rx="100" ry="100"/>
+  <ellipse fill="#ffd8af" stroke="BLACK" stroke-width="5" cx="256" cy="270" rx="100" ry="100"/>
 
-<ellipse fill="WHITE" stroke="BLACK" stroke-width="3" cx="190" cy="290" rx="15" ry="15"/>
-<path d="M256 340 T200 210" stroke="black" stroke-width="5" fill="none"></path>
-<path d="M220 280 T290 280" stroke="black" stroke-width="5" fill="none"></path>
-<path d="M256 340 T310 210" stroke="black" stroke-width="5" fill="none"></path>
+<ellipse fill="WHITE" stroke="BLACK" stroke-width="3" cx="320" cy="260" rx="15" ry="15"/>
+<ellipse fill="WHITE" stroke="BLACK" stroke-width="3" cx="190" cy="260" rx="15" ry="15"/>
+
+<path d="M256 290 T220 210" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M235 240 T275 240" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M256 290 T290 210" stroke="black" stroke-width="5" fill="none"></path>
+
 <path d="M256 72 T200 190" stroke="blUE" stroke-width="5" fill="none"></path>
 <path d="M230 130 T285 130" stroke="blUE" stroke-width="5" fill="none"></path>
 <path d="M256 72 T310 187" stroke="blUE" stroke-width="5" fill="none"></path>
@@ -52,17 +55,20 @@
 <path d="M276 110 T325 99" stroke="blUE" stroke-width="5" fill="none"></path>
 <path d="M285 132 T325 99" stroke="blUE" stroke-width="5" fill="none"></path>
 <path d="M230 132 T190 99" stroke="blUE" stroke-width="5" fill="none"></path>
+
 <path d="M200 190 T64 280" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M200 190 T84 310" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M200 190 T104 340" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M200 190 T124 370" stroke="ORANGE" stroke-width="5" fill="none"></path>
+
 <path d="M304 180 T445 250" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M304 180 T425 280" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M304 180 T405 310" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M304 180 T385 340" stroke="ORANGE" stroke-width="5" fill="none"></path>
 <path d="M304 180 T365 370" stroke="ORANGE" stroke-width="5" fill="none"></path>
 
-<ellipse fill="WHITE" stroke="BLACK" stroke-width="3" cx="320" cy="290" rx="15" ry="15"/>
+<path d="M220 310 Q 230 340 , 256 310 Q256 310, 270 322 T 295 310" stroke="black" stroke-width="5" fill="none"></path>
+<text x="150" y="420" font-size="42" text-anchor="start" fill="lightblue">北海小英雄</text>
+<text x="160" y="460" font-size="42" text-anchor="start" fill="lightblue">VOYAGER</text>
 
-</g>
 </svg>

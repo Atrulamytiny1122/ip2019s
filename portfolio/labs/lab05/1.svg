@@ -43,7 +43,8 @@
   <circle cx="240" cy="156" r="55" fill="black"  stroke="black" stroke-width="5" transform="translate(100,50)"></circle>
   <ellipse fill="black" stroke="white" stroke-width="5" cx="242" cy="288" rx="9" ry="22"/>
   <ellipse fill="black" stroke="white" stroke-width="5" cx="272" cy="288" rx="9" ry="22"/>
-  <path d="M175 366 Q140 320 ,200 333 C 172 300 ,220 170 , 256 256 C 293 175, 330 280 ,312 330 Q375 320, 339 366 "stroke="WHITE" stroke-width="5" fill="none"></path>
-  <path d="M200 350 Q256 384 ,314 350 "stroke="WHITE" stroke-width="5" fill="none"></path>
+  <path d="M175 366 Q140 320 ,200 333 C 172 300 ,220 170 , 256 256 C 293 175, 330 280 ,312 330 Q375 320, 339 366 " stroke="WHITE" stroke-width="5" fill="none"></path>
+  <path d="M200 350 Q256 384 ,314 350 " stroke="WHITE" stroke-width="5" fill="none"></path>
   <ellipse fill="black" stroke="white" stroke-width="5" cx="256" cy="322" rx="22" ry="9"/>
-  <path d="M220 360 Q256 400 ,300 357 "stroke="WHITE" stroke-width="5" fill="none"></path>
+  <path d="M220 360 Q256 400 ,300 357 " stroke="WHITE" stroke-width="5" fill="none"></path>
+</svg>

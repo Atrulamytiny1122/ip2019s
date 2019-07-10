@@ -51,6 +51,8 @@
 <path d="M290 300 T390 296" stroke="black" stroke-width="5" fill="none"></path>
 <path d="M290 320 T390 326" stroke="black" stroke-width="5" fill="none"></path>
 <ellipse fill="WHITE" stroke="BLACK" stroke-width="3" cx="290" cy="240" rx="15" ry="20"/>
-
-</g>
+<ellipse fill="" stroke="BLACK" stroke-width="3" cx="285" cy="245" rx="3" ry="9"/>
+<ellipse fill="" stroke="BLACK" stroke-width="3" cx="225" cy="245" rx="3" ry="9"/>
+<path d="M220 310 Q 256 370      290 310" stroke="black" stroke-width="5" fill="red"></path>
+<path d="M220 310 T290 310" stroke="black" stroke-width="5" fill="none"></path>
 </svg>
