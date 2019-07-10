@@ -52,6 +52,15 @@
 <path d="M276 110 T325 99" stroke="black" stroke-width="5" fill="none"></path>
 <path d="M285 132 T325 99" stroke="black" stroke-width="5" fill="none"></path>
 <path d="M230 132 T190 99" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M200 190 T64 280" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M200 190 T84 310" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M200 190 T104 340" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M200 190 T124 370" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M304 180 T445 250" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M304 180 T425 280" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M304 180 T405 310" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M304 180 T385 340" stroke="black" stroke-width="5" fill="none"></path>
+<path d="M304 180 T365 370" stroke="black" stroke-width="5" fill="none"></path>
 
 <ellipse fill="WHITE" stroke="BLACK" stroke-width="3" cx="320" cy="290" rx="15" ry="15"/>
 
