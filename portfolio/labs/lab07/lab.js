@@ -71,12 +71,12 @@ function analyze() {
 
 
 
-      for(var i = 0; i < (newPath.length - 1); i++){
-        var segment = newPath[i], point;
+      // for(var i = 0; i < (newPath.length - 1); i++){
+      //   var segment = newPath[i], point;
 
-        segment.shift();
-        point = setUpPoint(segment);
-      }
+      //   segment.shift();
+      //   point = setUpPoint(segment);
+      // }
 
 
 
